@@ -1,2 +1,1 @@
-NOTES-FINDER   
-it
+NOTES-FINDER  
